@@ -1,4 +1,8 @@
-Maior EMenor (Chapter02\MaiorEMenor)
- [x] Ordem decrescente
- [x] Apenas um produto
+Conversor De Numero Romano (Tdd\Tests\Chapter03\ConversorDeNumeroRomano)
+ [x] Deve entender o simbolo i
+ [x] Deve entender o simbolo v
+ [x] Deve entender o simbolo i i
+ [x] Deve entender o simbolo x x i i
+ [x] Deve entender o simbolo i x
+ [x] Deve entender o simbolo x x i v
 

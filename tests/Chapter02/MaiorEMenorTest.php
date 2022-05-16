@@ -1,6 +1,6 @@
 <?php
 
-namespace Chapter02;
+namespace Tdd\Tests\Chapter02;
 
 use PHPUnit\Framework\TestCase;
 use Tdd\Chapter02\{CarrinhoDeCompras, MaiorEMenor, Produto};
